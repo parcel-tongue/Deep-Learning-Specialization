@@ -1,4 +1,4 @@
-# Deep-Learning-Specialization
+# Deep-Learning-Specialization on Coursera by Andrew Ng
 Deep Learning Specialization. Master Deep Learning, and Break into AI
 
 In five courses, the foundations of Deep Learning, understanding how to build neural networks, how to lead successful machine learning projects, Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more will be explained.
